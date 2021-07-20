@@ -1,7 +1,7 @@
 
 /*Header*/
 .firstimage{
-    background-image:url('images/task5.1.png');
+    background-image:url('https://raw.githubusercontent.com/ShreyDave/Task5_HOST/main/images/task5.1.png');
     background-repeat:no-repeat;
     width:100%;
     height:1023px;
@@ -193,7 +193,7 @@ a{
     text-align:center;
 }
 .aftercardteximage{
-    background-image:url('images/task5.14.png');
+    background-image:url('https://raw.githubusercontent.com/ShreyDave/Task5_HOST/main/images/task5.14.png');
     background-repeat:no-repeat;
     width:100%;
     height:300px;
@@ -242,7 +242,7 @@ a{
 /*second image*/
 
 .secondimage{
-    background-image:url('images/task5.png');
+    background-image:url('https://raw.githubusercontent.com/ShreyDave/Task5_HOST/main/images/task5.png');
     width:100%;
     height:500px;
     position:relative;
@@ -330,7 +330,7 @@ a{
 /*After second image*/
 
 .imagewithflexboximage{
-    background-image:url('images/task5.25.png'),url('images/task5.24.png');
+    background-image:url('https://raw.githubusercontent.com/ShreyDave/Task5_HOST/main/images/task5.25.png'),url('https://raw.githubusercontent.com/ShreyDave/Task5_HOST/main/images/task5.24.png');
     background-repeat:no-repeat;
     width:100%;
     height:800px;
@@ -904,7 +904,7 @@ a{
 /*Footer*/
 
 .footerimage{
-    background-image:url('images/task5.png');
+    background-image:url('https://raw.githubusercontent.com/ShreyDave/Task5_HOST/main/images/task5.png');
     width:100%;
     height:550px;
     background-repeat:no-repeat;
